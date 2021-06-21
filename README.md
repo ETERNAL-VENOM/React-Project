@@ -5,6 +5,7 @@ This is `React-Spotify`, a React front end client that communicates with the Spo
 See it in action [here](https://github.com/ETERNAL-VENOM/React-Project).
 
 ![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/image_2021-06-21_051128.png "Songs")
+
 ![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/image_2021-06-21_051352.png "Browse")
 
 If you wish to run the code locally run the following commands.
