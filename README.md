@@ -4,20 +4,24 @@ This is `React-Spotify`, a React front end client that communicates with the Spo
 
 Project-ScreenShots
 
+Spotify API Login
+![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/spotify-api-login.jpg "Songs")
+
 User Songs
-![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/songs.png "Songs")
+![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/songs.jpg "Songs")
 
 Browsing songs 
-![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/browse.png "Browse")
+![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/browse.jpg "Browse")
 
 User Playlists's
-![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/user-playlist.png "playlist")
+![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/user-playlist.jpg "playlist")
 
 Playing song
-![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/song-playing.png "song")
+![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/song-playing.jpg "song")
 
 
 See it in action [here](https://github.com/ETERNAL-VENOM/React-Project).
+
 If you wish to run the code locally run the following commands.
 
 ```
