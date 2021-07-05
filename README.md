@@ -8,7 +8,7 @@ User Songs
 ![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/songs.png "Songs")
 
 Browsing songs 
-![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/browse.png "Browse")
+![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/browse.jpg "Browse")
 
 User Playlists's
 ![alt text](https://github.com/ETERNAL-VENOM/React-Project/blob/main/user-playlist.png "playlist")
