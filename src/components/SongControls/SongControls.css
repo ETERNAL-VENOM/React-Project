@@ -6,13 +6,13 @@
 
 .song-details .song-name {
   font-family: 'Proxima Nova', Georgia, sans-serif;
-  color: #fff;
+  color: #f10f0f;
   font-size: 14px;
 }
 
 .song-details .artist-name {
   font-family: 'Proxima Thin', Georgia, sans-serif;
-  color: #aaa;
+  color: #f10f0f;
   font-size: 12px;
 }
 
@@ -69,7 +69,7 @@
   margin: 0;
   width: 100px;
   height: 4px;
-  background: #1db954;
+  background: #f10f0f;
   border-radius: 4px;
 }
 

@@ -29,7 +29,7 @@ class SongControls extends Component {
   calculateTime() {
 
     const intervalId = setInterval(() => {
-      if (this.state.timeElapsed === 30) {
+      if (this.state.timeElapsed === 400) {
         clearInterval(this.state.intervalId);
         this.props.stopSong();
       } else if (!this.props.songPaused) {

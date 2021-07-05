@@ -2,17 +2,17 @@
   display: flex;
   justify-content: flex-end;
   padding: 10px 0;
-  background: rgb(24, 24, 24);
+  background: rgb(0, 0, 0);
 }
 
 .user-image {
-  border-radius: 50%;
-  height: 30px;
+  border-radius: 60%;
+  height: 40px;
 }
 
 .user-name {
-  color: #fff;
-  font-size: 14px;
+  color: #f10f0f;
+  font-size: 20px;
   position: relative;
   top: 5px;
   margin-left: 10px;

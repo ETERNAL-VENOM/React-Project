@@ -37,8 +37,8 @@ h3 {
 
 body {
     font-family: 'Proxima Nova', Georgia, sans-serif;
-    background: rgb(24, 24, 24);
-    color: #fff;
+    background: rgb(0, 0, 0);
+    color:#00effb;
     max-width: 1400px;
     margin: 0 auto;
     padding: 0;

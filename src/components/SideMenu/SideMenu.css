@@ -1,6 +1,6 @@
 .side-menu-container {
   padding: 20px;
-  color: rgb(179, 179, 179);
+  color:rgb(2, 224, 253);
   margin: 0;
 }
 
@@ -25,7 +25,7 @@ white-space: nowrap;
 }
 
 .side-menu-item:hover {
-  color: #fff;
+  color: #f10f0f;
 }
 
 .radio {
@@ -38,7 +38,7 @@ white-space: nowrap;
 
 .side-menu-container .active:before {
 	content: "";
-	border-left: 3px solid #1db954;
+	border-left: 3px solid #f10f0f;
 	position: relative;
 	left: -18px;
 }
